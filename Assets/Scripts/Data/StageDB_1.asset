@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa0f13695d426c145bcd16fa16952bcc, type: 3}
+  m_Name: StageDB_1
+  m_EditorClassIdentifier: 
+  levels:
+  - lvName: "\u91D1\u7259"
+    lv: 1
+    lvFactor: 0
+    reward: 30
+    icon: {fileID: 21300000, guid: 112c48ad71ab8dc41a8d8b8a42b768d1, type: 3}
+  - lvName: "\u6BCD\u8718\u86DB"
+    lv: 1
+    lvFactor: 1
+    reward: 30
+    icon: {fileID: 21300000, guid: 2a25d0277a6c2854f8aac8a21c01309a, type: 3}
+  - lvName: "\u78BC\u982D\u7BA1\u7406\u54E1"
+    lv: 1
+    lvFactor: 2
+    reward: 30
+    icon: {fileID: 21300000, guid: c16922c2cccb4ae448d2a02b6cff1178, type: 3}
+  - lvName: "\u6536\u8CA8\u4EBA\u6469\u6839"
+    lv: 1
+    lvFactor: 3
+    reward: 30
+    icon: {fileID: 21300000, guid: 0ed94d33f1a9c2b4b82c72892b564e78, type: 3}
+  - lvName: "\u970D\u683C"
+    lv: 2
+    lvFactor: 4
+    reward: 30
+    icon: {fileID: 21300000, guid: 6f92fa79f8045f24d8d9ccb6c85858a1, type: 3}
